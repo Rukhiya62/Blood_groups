@@ -2,6 +2,8 @@ TYPE|Rh
 A|Rh positive
 B|Rh negative
 A|Rh negative
-B|positive
-AB|positive
+B|Rh positive
+AB|Rh positive
 AB|Rh negative
+O|Rh positive
+O|Rh negative
